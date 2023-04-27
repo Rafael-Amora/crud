@@ -19,7 +19,11 @@
       "name": "Lapis Preto Básico",
       "price": "1.50",
       "id": 4
+    },
+    {
+      "name": "geladeira",
+      "price": "1890.94",
+      "id": 5
     }
-    
   ]
 }

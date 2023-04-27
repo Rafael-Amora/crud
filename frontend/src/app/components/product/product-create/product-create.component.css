@@ -3,3 +3,12 @@ form {
     flex-direction: column;
 }
 
+button {
+    margin: 10px 10px 10px 10px;
+}
+
+mat-card-title {
+    margin: 10px 10px 10px 10px;
+}
+
+

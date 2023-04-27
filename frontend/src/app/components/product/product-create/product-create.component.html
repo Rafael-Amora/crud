@@ -4,12 +4,14 @@
     <form>
         <mat-form-field appearance="fill">
             <mat-label>NOME</mat-label>
-            <input matInput placeholder="Digite o nome do produto">
+            <input matInput placeholder="Digite o nome do produto"
+             [(ngModel)]="product.name" name="name">
         </mat-form-field>
 
         <mat-form-field appearance="fill">
             <mat-label>PREÇO (R$)</mat-label>
-            <input matInput placeholder="Digite o preço do produto">
+            <input matInput placeholder="Digite o preço do produto" 
+            [(ngModel)]="product.price" name="price">
         </mat-form-field>
     </form>
 
