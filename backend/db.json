@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Caneta BIC Preta",
-      "price": 5.89
+      "price": "5.90"
     },
     {
       "id": 2,
@@ -17,18 +17,8 @@
     },
     {
       "name": "Lapis Preto Básico",
-      "price": "1.50",
+      "price": "2.50",
       "id": 4
-    },
-    {
-      "name": "geladeira",
-      "price": "1890.94",
-      "id": 5
-    },
-    {
-      "name": "produto teste",
-      "price": "15.90",
-      "id": 6
     }
   ]
 }
